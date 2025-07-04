@@ -1489,30 +1489,6 @@ https://trkvz-beta.daioncdn.net/aspor/aspor.m3u8?app=45f847c4-04e8-419a-a561-2eb
 https://new.cache-stream.workers.dev/stream/UCK3mI2lsk3LSo8PBUc8JTSw/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F0Tsz1v/htsportr.png" group-title="8. |TR|🇹🇷 ÇOCUK / SPOR",HT SPOR (backup)
 https://livestream.zazerconer.workers.dev/channel/UCK3mI2lsk3LSo8PBUc8JTSw.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gdbyhx2/spotify.png" group-title="9. |TR|🇹🇷 MÜZİK",SPOTIFY TURKEY • TRLIST 👤🎧🎤📻💯
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gdbyhx2/spotify.png" group-title="9. |TR|🇹🇷 MÜZİK",SPOTIFY TURKEY • 2025 🎶🎵🎼🎹🪗
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/sptr25.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gdbyhx2/spotify.png" group-title="9. |TR|🇹🇷 MÜZİK",SPOTIFY TURKEY • 2024 🎸🎷🎺🎻🪕
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/spb24.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="9. |TR|🇹🇷 MÜZİK",⇨SPECIAL EMOTIONAL EVER TR💫💭✔️
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/emtr.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mywSdSQ/att.png" group-title="9. |TR|🇹🇷 MÜZİK",⇨SPECIAL ENERGETIC EVER TR⚡🔋✔️
-https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/enetr.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="9. |TR|🇹🇷 MÜZİK",TRT MÜZİK
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="9. |TR|🇹🇷 MÜZİK",KRAL - KRAL POP
-http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="9. |TR|🇹🇷 MÜZİK",KRAL - KRAL POP
-https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="9. |TR|🇹🇷 MÜZİK",DREAM TÜRK
-http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" group-title="9. |TR|🇹🇷 MÜZİK",POWER TÜRK
-http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" group-title="9. |TR|🇹🇷 MÜZİK",POWER TÜRK
-https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png" group-title="9. |TR|🇹🇷 MÜZİK",POWER TÜRK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png" group-title="9. |TR|🇹🇷 MÜZİK",POWER TÜRK SLOW
@@ -1561,7 +1537,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17c
 http://dygvideo.dygdigital.com/live/hls/puhukralpopdai?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="9. |TR|🇹🇷 MÜZİK",KRAL - KRAL POP (backup)
 https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=f38a38b4-ce55-4040-8676-9826937d6128
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xzZk0Yq/trtavaz.png" group-title="10. |TR|🇹🇷 AVRUPA; DİNÎ; DİĞER",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
@@ -1679,8 +1654,6 @@ http://nimplus3.bozztv.com/eurod/eurod/playlist.m3u8
 http://nimplus3.bozztv.com/eurostar/eurostar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n7Jy3h5/tv8int22.png" group-title="10. |TR|🇹🇷 AVRUPA; DİNÎ; DİĞER",TV8 INT (geçici geçerli)
 http://nimplus3.bozztv.com/tv8int/tv8int/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="11. |TR|🇹🇷 YEREL - BÖLGESEL",ANADOLU NET TV
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mHt7rQf/Tryerel.png" group-title="11. |TR|🇹🇷 YEREL - BÖLGESEL",AKSU TV KAHRAMANMARAŞ
